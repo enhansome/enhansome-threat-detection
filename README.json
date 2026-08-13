@@ -1,0 +1,2030 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YARA",
+          "description": "The pattern matching swiss knife",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T06:37:31Z",
+            "owner": "VirusTotal",
+            "repo": "yara",
+            "stars": 9803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dispatch",
+          "description": "An open-source crisis management orchestration framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-09-03T04:04:13Z",
+            "owner": "Netflix",
+            "repo": "dispatch",
+            "stars": 6497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capa",
+          "description": "An open-source tool to identify capabilities in executable files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:24:57Z",
+            "owner": "mandiant",
+            "repo": "capa",
+            "stars": 6133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DetectionLab",
+          "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-06T21:27:28Z",
+            "owner": "clong",
+            "repo": "DetectionLab",
+            "stars": 5011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProcMon for Linux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-07T17:47:31Z",
+            "owner": "microsoft",
+            "repo": "ProcMon-for-Linux",
+            "stars": 4717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intel Owl",
+          "description": "An Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:10:41Z",
+            "owner": "intelowlproject",
+            "repo": "IntelOwl",
+            "stars": 4667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HELK",
+          "description": "A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-01T14:05:15Z",
+            "owner": "Cyb3rWard0g",
+            "repo": "HELK",
+            "stars": 3931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security Onion",
+          "description": "An open-source Linux distribution for threat hunting, security monitoring, and log management. It includes ELK, Snort, Suricata, Zeek, Wazuh, Sguil, and many other security tools",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-04-16T12:14:31Z",
+            "owner": "Security-Onion-Solutions",
+            "repo": "security-onion",
+            "stars": 3135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MITRE ATT&CK Navigator",
+          "description": "(source code) - The ATT&CK Navigator is designed to provide basic navigation and annotation of ATT&CK matrices, something that people are already doing today in tools like Excel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T11:43:20Z",
+            "owner": "mitre-attack",
+            "repo": "attack-navigator",
+            "stars": 2439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepBlueCLI",
+          "description": "A PowerShell Module for Hunt Teaming via Windows Event Logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-10-14T17:06:57Z",
+            "owner": "sans-blue-team",
+            "repo": "DeepBlueCLI",
+            "stars": 2427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hollows_hunter",
+          "description": "Scans all running processes, recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-06T12:47:20Z",
+            "owner": "hasherezade",
+            "repo": "hollows_hunter",
+            "stars": 2394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brim",
+          "description": "A desktop application to efficiently search large packet captures and Zeek logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-04T16:51:54Z",
+            "owner": "brimdata",
+            "repo": "zui",
+            "stars": 1969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Splunk Security Content",
+          "description": "Splunk-curated detection content that can easily be used accross many SIEMs (see Uncoder Rule Converter.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:35:09Z",
+            "owner": "splunk",
+            "repo": "security_content",
+            "stars": 1671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BinaryAlert",
+          "description": "Serverless, real-time & retroactive malware detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T18:28:30Z",
+            "owner": "airbnb",
+            "repo": "binaryalert",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedHunt-OS",
+          "description": "A Virtual Machine for Adversary Emulation and Threat Hunting. RedHunt aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-22T10:50:09Z",
+            "owner": "redhuntlabs",
+            "repo": "RedHunt-OS",
+            "stars": 1317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatHunting",
+          "description": "A Splunk app mapped to MITRE ATT&CK to guide your threat hunts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-26T00:35:06Z",
+            "owner": "olafhartong",
+            "repo": "ThreatHunting",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAST",
+          "description": "A network telemetry engine for data-driven security investigations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:28:24Z",
+            "owner": "tenzir",
+            "repo": "tenzir",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revoke-Obfuscation",
+          "description": "PowerShell Obfuscation Detection Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-12-01T02:04:51Z",
+            "owner": "danielbohannon",
+            "repo": "Revoke-Obfuscation",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CimSweep",
+          "description": "A suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-08-19T12:50:44Z",
+            "owner": "mattifestation",
+            "repo": "CimSweep",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BZAR",
+          "description": "(Bro/Zeek ATT&CK-based Analytics and Reporting) - A set of Zeek scripts to detect ATT&CK techniques",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zeek",
+            "last_commit": "2024-06-26T16:32:59Z",
+            "owner": "mitre-attack",
+            "repo": "bzar",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flare",
+          "description": "An analytical framework for network traffic and behavioral analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T23:39:04Z",
+            "owner": "austin-taylor",
+            "repo": "flare",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeek Analysis Tools (ZAT)",
+          "description": "Processing and analysis of Zeek network data with Pandas, scikit-learn, Kafka and Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-01T15:02:06Z",
+            "owner": "SuperCowPowers",
+            "repo": "zat",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOC-Multitool",
+          "description": "A powerful and user-friendly browser extension that streamlines investigations for security professionals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-13T21:03:49Z",
+            "owner": "zdhenard42",
+            "repo": "SOC-Multitool",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invoke-ATTACKAPI",
+          "description": "A PowerShell script to interact with the MITRE ATT&CK Framework via its own API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2019-02-07T13:04:27Z",
+            "owner": "Cyb3rWard0g",
+            "repo": "Invoke-ATTACKAPI",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threat Bus",
+          "description": "Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-17T13:44:28Z",
+            "owner": "tenzir",
+            "repo": "threatbus",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EQL",
+          "description": "Event Query Language",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EQLLib",
+              "description": "The Event Query Language Analytics Library (eqllib) is a library of event based analytics, written in EQL to detect adversary behaviors identified in MITRE ATT&CK™.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-01-20T18:07:11Z",
+                "owner": "endgameinc",
+                "repo": "eqllib",
+                "stars": 168
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T14:37:01Z",
+            "owner": "endgameinc",
+            "repo": "eql",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogSlash",
+          "description": "A standard for reducing log volume without sacrificing analytical capability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-21T20:32:21Z",
+            "owner": "FoxIO-LLC",
+            "repo": "LogSlash",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unfetter",
+          "description": "A reference implementation provides a framework for collecting events (process creation, network connections, Window Event Logs, etc.) from a client machine and performing CAR analytics to detect potential adversary activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-01T19:46:13Z",
+            "owner": "unfetter-discover",
+            "repo": "unfetter-analytic",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oriana",
+          "description": "Lateral movement and threat hunting tool for Windows environments built on Django comes Docker ready.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-10T20:48:52Z",
+            "owner": "mvelazc0",
+            "repo": "Oriana",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthetic Adversarial Log Objects (SALO)",
+          "description": "A framework for the generation of log events without the need for infrastructure or actions to initiate the event that causes a log event.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T18:45:51Z",
+            "owner": "splunk",
+            "repo": "salo",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Varna",
+          "description": "A quick & cheap AWS CloudTrail Monitoring with Event Query Language (EQL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-26T21:00:38Z",
+            "owner": "endgameinc",
+            "repo": "varna",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeek2es",
+          "description": "An open source tool to convert Zeek logs to Elastic/OpenSearch. You can also output pure JSON from Zeek's TSV logs!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-18T13:23:02Z",
+            "owner": "corelight",
+            "repo": "zeek2es",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brosquery",
+          "description": "A module for osquery to load Bro logs into tables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-04-28T14:19:57Z",
+            "owner": "jandre",
+            "repo": "brosquery",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bro-Osquery",
+          "description": "Bro integration with osquery",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-03-24T03:21:02Z",
+            "owner": "bro",
+            "repo": "bro-osquery",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NRD-db",
+          "description": "Automatically fetches and stores newly registered domains in a Redis database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T19:59:10Z",
+            "owner": "StrackVibes",
+            "repo": "NRD-db",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentinel Attack",
+          "description": "A repository of Azure Sentinel alerts and hunting queries leveraging sysmon and the MITRE ATT&CK framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-24T13:46:38Z",
+            "owner": "BlueTeamLabs",
+            "repo": "sentinel-attack",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ElastAlert",
+          "description": "A framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T06:30:10Z",
+            "owner": "YelpArchive",
+            "repo": "elastalert",
+            "stars": 7987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamAlert",
+          "description": "A serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-23T17:15:34Z",
+            "owner": "airbnb",
+            "repo": "streamalert",
+            "stars": 2889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuffle",
+          "description": "A general purpose security automation platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:41:25Z",
+            "owner": "Shuffle",
+            "repo": "Shuffle",
+            "stars": 2410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matano",
+          "description": "An open source security lake platform (SIEM alternative) for threat hunting, detection and response on AWS. Matano lets you write advanced detections as code (using python) to correlate and alert on threats in realtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-08T04:14:13Z",
+            "owner": "matanolabs",
+            "repo": "matano",
+            "stars": 1693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substation",
+          "description": "A cloud native data pipeline and transformation toolkit for security teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-20T18:53:05Z",
+            "owner": "brexhq",
+            "repo": "substation",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime",
+          "description": "An open platform for detection, response, and threat hunting in email environments. Sublime lets you write advanced detections as code to alert and remediate threats like phishing in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T15:02:00Z",
+            "owner": "sublime-security",
+            "repo": "sublime-platform",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "Detection, Alerting and Automation Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osquery",
+          "description": "(github) - SQL powered operating system instrumentation, monitoring, and analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:37:58Z",
+            "owner": "osquery",
+            "repo": "osquery",
+            "stars": 23457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WAZUH",
+          "description": "An open-source security platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:38:08Z",
+            "owner": "wazuh",
+            "repo": "wazuh",
+            "stars": 16516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sysdig",
+          "description": "A tool for deep Linux system visibility, with native support for containers. Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-13T12:32:03Z",
+            "owner": "draios",
+            "repo": "sysdig",
+            "stars": 8283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSSEC",
+          "description": "An open-source Host-based Intrusion Detection System (HIDS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:55:11Z",
+            "owner": "ossec",
+            "repo": "ossec-hids",
+            "stars": 5046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Velociraptor",
+          "description": "Endpoint visibility and collection tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T06:59:02Z",
+            "owner": "Velocidex",
+            "repo": "velociraptor",
+            "stars": 4171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sysmon for Linux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-13T23:10:10Z",
+            "owner": "microsoft",
+            "repo": "SysmonForLinux",
+            "stars": 2146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-audit",
+          "description": "An alternative to the Linux auditd daemon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T22:03:20Z",
+            "owner": "slackhq",
+            "repo": "go-audit",
+            "stars": 1663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kolide Fleet",
+          "description": "A flexible control server for osquery fleets",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-12-15T15:03:21Z",
+            "owner": "kolide",
+            "repo": "fleet",
+            "stars": 1098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeek Agent",
+          "description": "An endpoint monitoring agent that provides host activity to Zeek",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-11-19T07:40:55Z",
+            "owner": "zeek",
+            "repo": "zeek-agent",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "Endpoint Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sysmon-config",
+          "description": "Sysmon configuration file template with default high-quality event tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T17:26:43Z",
+            "owner": "SwiftOnSecurity",
+            "repo": "sysmon-config",
+            "stars": 5619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sysmon-modular",
+          "description": "A repository of sysmon configuration modules. It also includes a mapping of Sysmon configurations to MITRE ATT&CK techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-10T00:47:52Z",
+            "owner": "olafhartong",
+            "repo": "sysmon-modular",
+            "stars": 3111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auditd configuration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-04T12:02:04Z",
+            "owner": "Neo23x0",
+            "repo": "auditd",
+            "stars": 1885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sysmon-DFIR",
+          "description": "Sources, configuration and how to detect evil things utilizing Microsoft Sysmon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-12T16:21:02Z",
+            "owner": "MHaggis",
+            "repo": "sysmon-dfir",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osquery-configuration",
+          "description": "A repository for using osquery for incident detection and response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-08T17:22:41Z",
+            "owner": "palantir",
+            "repo": "osquery-configuration",
+            "stars": 898
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ntopng",
+          "description": "A web-based network traffic monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T21:34:10Z",
+            "owner": "ntop",
+            "repo": "ntopng",
+            "stars": 8087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeek",
+          "description": "(formerly Bro) - A network security monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:53:21Z",
+            "owner": "zeek",
+            "repo": "zeek",
+            "stars": 7872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arkime",
+          "description": ") - A large scale and open source full packet capture and search tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:00:00Z",
+            "owner": "arkime",
+            "repo": "arkime",
+            "stars": 7444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snort",
+          "description": "(github) - A network intrusion detection tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-23T20:33:58Z",
+            "owner": "snort3",
+            "repo": "snort3",
+            "stars": 3402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netcap",
+          "description": "A framework for secure and scalable network traffic analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T05:58:15Z",
+            "owner": "dreadl0ck",
+            "repo": "netcap",
+            "stars": 1803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stenographer",
+          "description": "A full-packet-capture tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-07-26T14:40:13Z",
+            "owner": "google",
+            "repo": "stenographer",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joy",
+          "description": "A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-01T09:50:44Z",
+            "owner": "cisco",
+            "repo": "joy",
+            "stars": 1367
+          }
+        }
+      ],
+      "title": "Network Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JA3",
+          "description": "A method for profiling SSL/TLS Clients and Servers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-01T17:30:05Z",
+            "owner": "salesforce",
+            "repo": "ja3",
+            "stars": 3104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JARM",
+          "description": "An active Transport Layer Security (TLS) server fingerprinting tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T18:08:06Z",
+            "owner": "salesforce",
+            "repo": "jarm",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recog",
+          "description": "A framework for identifying products, services, operating systems, and hardware by matching fingerprints against data returned from various network probes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T11:04:20Z",
+            "owner": "rapid7",
+            "repo": "recog",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FATT",
+          "description": "A pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T01:54:56Z",
+            "owner": "0x4D31",
+            "repo": "fatt",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HASSH",
+          "description": "Profiling Method for SSH Clients and Servers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-01T17:29:53Z",
+            "owner": "salesforce",
+            "repo": "hassh",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mercury",
+          "description": "Network fingerprinting and packet metadata capture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-13T16:22:55Z",
+            "owner": "cisco",
+            "repo": "mercury",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FingerprinTLS",
+          "description": "A TLS fingerprinting method",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-10-20T16:17:51Z",
+            "owner": "LeeBrotherston",
+            "repo": "tls-fingerprinting",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hfinger",
+          "description": "Fingerprinting HTTP requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-16T11:04:24Z",
+            "owner": "CERT-Polska",
+            "repo": "hfinger",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GQUIC Protocol Analyzer for Zeek",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zeek",
+            "last_commit": "2026-06-02T18:06:10Z",
+            "owner": "salesforce",
+            "repo": "GQUIC_Protocol_Analyzer",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RDFP",
+          "description": "Zeek Remote desktop fingerprinting script based on FATT (Fingerprint All The Things)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zeek",
+            "last_commit": "2023-06-20T19:46:53Z",
+            "owner": "theparanoids",
+            "repo": "rdfp",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Fingerprinting Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sigma",
+          "description": "Generic Signature Format for SIEM Systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:39:07Z",
+            "owner": "SigmaHQ",
+            "repo": "sigma",
+            "stars": 10880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatHunter-Playbook",
+          "description": "A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T00:17:37Z",
+            "owner": "OTRF",
+            "repo": "ThreatHunter-Playbook",
+            "stars": 4632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome YARA Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T19:57:31Z",
+            "owner": "pedramamini",
+            "repo": "awesome-yara",
+            "stars": 4254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastic Detection Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:50:09Z",
+            "owner": "elastic",
+            "repo": "detection-rules",
+            "stars": 2686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronicle Detection Rules",
+          "description": "Collection of YARA-L 2.0 sample rules for the Chronicle Detection API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T21:02:46Z",
+            "owner": "chronicle",
+            "repo": "detection-rules",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCP Security Analytics",
+          "description": "Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-12T14:47:30Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "security-analytics",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Detection Rules",
+          "description": "Email attack detection, response, and hunting rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YAML",
+            "last_commit": "2026-08-13T00:38:33Z",
+            "owner": "sublime-security",
+            "repo": "sublime-rules",
+            "stars": 369
+          }
+        }
+      ],
+      "title": "Detection Rules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theZoo",
+          "description": "A repository of LIVE malwares",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:11:43Z",
+            "owner": "ytisf",
+            "repo": "theZoo",
+            "stars": 13289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVTX-ATTACK-SAMPLES",
+          "description": "A repo of Windows event samples (EVTX) associated with ATT&CK techniques (EVTX-ATT&CK Sheet).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-24T12:02:51Z",
+            "owner": "sbousseaden",
+            "repo": "EVTX-ATTACK-SAMPLES",
+            "stars": 2604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mordor",
+          "description": "Pre-recorded security events generated by simulated adversarial techniques in the form of JavaScript Object Notation (JSON) files. The data is categorized by platforms, adversary groups, tactics and techniques defined by the Mitre ATT&CK Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-03-20T20:19:19Z",
+            "owner": "OTRF",
+            "repo": "Security-Datasets",
+            "stars": 1796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMBER",
+          "description": "(paper) - The EMBER dataset is a collection of features from PE files that serve as a benchmark dataset for researchers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-22T20:36:57Z",
+            "owner": "elastic",
+            "repo": "ember",
+            "stars": 1168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attack_data",
+          "description": "A repository of curated datasets from various attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:28:29Z",
+            "owner": "splunk",
+            "repo": "attack_data",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boss of the SOC (BOTS) Dataset Version 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-18T13:56:56Z",
+            "owner": "splunk",
+            "repo": "botsv3",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boss of the SOC (BOTS) Dataset Version 1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-08T15:20:21Z",
+            "owner": "splunk",
+            "repo": "botsv1",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boss of the SOC (BOTS) Dataset Version 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-01T18:34:00Z",
+            "owner": "splunk",
+            "repo": "botsv2",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCAP-ATTACK",
+          "description": "A repo of PCAP samples for different ATT&CK techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-29T23:39:40Z",
+            "owner": "sbousseaden",
+            "repo": "PCAP-ATTACK",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecRepo.com",
+          "description": "(github repo) - Samples of security related data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-06T20:46:42Z",
+            "owner": "sooshie",
+            "repo": "secrepo",
+            "stars": 135
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ThreatHunter-Playbook",
+          "description": "A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T00:17:37Z",
+            "owner": "OTRF",
+            "repo": "ThreatHunter-Playbook",
+            "stars": 4632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome YARA",
+          "description": "A curated list of awesome YARA rules, tools, and resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T19:57:31Z",
+            "owner": "pedramamini",
+            "repo": "awesome-yara",
+            "stars": 4254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The ThreatHunting Project",
+          "description": "A great collection of hunts and threat hunting resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-17T15:58:31Z",
+            "owner": "ThreatHuntingProject",
+            "repo": "ThreatHunting",
+            "stars": 1886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberThreatHunting",
+          "description": "A collection of resources for threat hunters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-15T18:48:37Z",
+            "owner": "A3sal0n",
+            "repo": "CyberThreatHunting",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deception-as-Detection",
+          "description": "Deception based detection techniques mapped to the MITRE’s ATT&CK framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-28T11:05:06Z",
+            "owner": "0x4D31",
+            "repo": "deception-as-detection",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware Persistence",
+          "description": "Collection of various information focused on malware persistence: detection (techniques), response, pitfalls and the log collection (tools).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T07:23:58Z",
+            "owner": "Karneades",
+            "repo": "malware-persistence",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hunt-Detect-Prevent",
+          "description": "Lists of sources and utilities to hunt, detect and prevent evildoers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-12-10T15:57:21Z",
+            "owner": "MHaggis",
+            "repo": "hunt-detect-prevent",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expert Investigation Guide - Threat Hunting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-18T22:04:32Z",
+            "owner": "Foundstone",
+            "repo": "ExpertInvestigationGuides",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSSEM",
+          "description": "(Open Source Security Events Metadata) - A community-led project that focuses on the documentation and standardization of security event logs from diverse data sources and operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-27T02:58:11Z",
+            "owner": "OTRF",
+            "repo": "OSSEM",
+            "stars": 1300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alerting and Detection Strategies Framework",
+          "description": "A framework for developing alerting and detection strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-08T18:00:25Z",
+            "owner": "palantir",
+            "repo": "alerting-detection-strategy-framework",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Cybersecurity Schema Framework (OCSF)",
+          "description": "A framework for creating schemas and it also delivers a cybersecurity event schema built with the framework (schema browser).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T17:01:57Z",
+            "owner": "ocsf",
+            "repo": "ocsf-schema",
+            "stars": 872
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HTTP Client Fingerprinting Using SSL Handshake Analysis",
+          "description": "(source code: mod_sslhaf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-09-14T17:01:39Z",
+            "owner": "ssllabs",
+            "repo": "sslhaf",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "HASSH - a profiling method for SSH Clients and Servers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HASSH @BSides Canberra 2019 - Slides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2019-05-20T10:27:22Z",
+                "owner": "benjeems",
+                "repo": "Presentations",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Fingerprinting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "msticpy",
+          "description": "A library for InfoSec investigation and hunting in Jupyter Notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:37:57Z",
+            "owner": "microsoft",
+            "repo": "msticpy",
+            "stars": 1990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data_hacking",
+          "description": "Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-05T21:56:42Z",
+            "owner": "SuperCowPowers",
+            "repo": "data_hacking",
+            "stars": 783
+          }
+        }
+      ],
+      "title": "Data Science"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-11T02:00:26Z",
+            "owner": "sbilly",
+            "repo": "awesome-security",
+            "stars": 14743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Malware Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-07T05:09:47Z",
+            "owner": "rshipp",
+            "repo": "awesome-malware-analysis",
+            "stars": 14114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Honeypots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T14:15:45Z",
+            "owner": "paralax",
+            "repo": "awesome-honeypots",
+            "stars": 10517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Incident Response",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T10:58:26Z",
+            "owner": "meirwah",
+            "repo": "awesome-incident-response",
+            "stars": 9317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Forensics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-14T21:15:16Z",
+            "owner": "cugu",
+            "repo": "awesome-forensics",
+            "stars": 5155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome YARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T19:57:31Z",
+            "owner": "pedramamini",
+            "repo": "awesome-yara",
+            "stars": 4254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cloud Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T02:09:12Z",
+            "owner": "4ndersonLin",
+            "repo": "awesome-cloud-security",
+            "stars": 2475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Kubernetes Threat Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-02T23:27:00Z",
+            "owner": "jatrost",
+            "repo": "awesome-kubernetes-threat-detection",
+            "stars": 409
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DetectionLab",
+          "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-06T21:27:28Z",
+            "owner": "clong",
+            "repo": "DetectionLab",
+            "stars": 5011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HELK",
+          "description": "A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-01T14:05:15Z",
+            "owner": "Cyb3rWard0g",
+            "repo": "HELK",
+            "stars": 3931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attack_range",
+          "description": "A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:22:44Z",
+            "owner": "splunk",
+            "repo": "attack_range",
+            "stars": 2538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueTeam Lab",
+          "description": "A detection lab created with Terraform and Ansible in Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2024-11-20T14:06:45Z",
+            "owner": "op7ic",
+            "repo": "BlueTeam.Lab",
+            "stars": 187
+          }
+        }
+      ],
+      "title": "Labs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PowerSploit",
+          "description": "A PowerShell Post-Exploitation Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-08-17T23:19:49Z",
+            "owner": "PowerShellMafia",
+            "repo": "PowerSploit",
+            "stars": 13091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atomic Red Team",
+          "description": "Small and highly portable detection tests mapped to the Mitre ATT&CK Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T11:19:31Z",
+            "owner": "redcanaryco",
+            "repo": "atomic-red-team",
+            "stars": 12393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Empire",
+          "description": "(website) - A PowerShell and Python post-exploitation agent.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-01-19T22:50:59Z",
+            "owner": "EmpireProject",
+            "repo": "Empire",
+            "stars": 7862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MITRE CALDERA",
+          "description": "An automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:29:06Z",
+            "owner": "apache",
+            "repo": "caldera",
+            "stars": 7185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infection Monkey",
+          "description": "An open source Breach and Attack Simulation (BAS) tool that assesses the resiliency of private and public cloud environments to post-breach attacks and lateral movement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T13:34:05Z",
+            "owner": "guardicore",
+            "repo": "monkey",
+            "stars": 7069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APTSimulator",
+          "description": "A Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2025-09-23T10:20:43Z",
+            "owner": "NextronSystems",
+            "repo": "APTSimulator",
+            "stars": 2761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Splunk Attack Range",
+          "description": "A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:22:44Z",
+            "owner": "splunk",
+            "repo": "attack_range",
+            "stars": 2538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpShooter",
+          "description": "Payload Generation Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2024-08-21T12:09:54Z",
+            "owner": "mdsecactivebreach",
+            "repo": "SharpShooter",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Flight Simulator",
+          "description": "flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-04T11:25:53Z",
+            "owner": "alphasoc",
+            "repo": "flightsim",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedHunt-OS",
+          "description": "A Virtual Machine for Adversary Emulation and Threat Hunting. RedHunt aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-22T10:50:09Z",
+            "owner": "redhuntlabs",
+            "repo": "RedHunt-OS",
+            "stars": 1317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metta",
+          "description": "A security preparedness tool to do adversarial simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-01T06:34:25Z",
+            "owner": "uber-common",
+            "repo": "metta",
+            "stars": 1145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red Team Automation (RTA)",
+          "description": "RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-01T11:40:33Z",
+            "owner": "endgameinc",
+            "repo": "RTA",
+            "stars": 1096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DumpsterFire",
+          "description": "A modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-27T15:00:56Z",
+            "owner": "TryCatchHCF",
+            "repo": "DumpsterFire",
+            "stars": 1039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CACTUSTORCH",
+          "description": "Payload Generation for Adversary Simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2018-07-03T06:47:36Z",
+            "owner": "mdsecactivebreach",
+            "repo": "CACTUSTORCH",
+            "stars": 1017
+          }
+        }
+      ],
+      "title": "Threat Simulation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Red Teaming/Adversary Simulation Toolkit",
+          "description": "A collection of open source and commercial tools that aid in red team operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-07T23:44:01Z",
+            "owner": "infosecn1nja",
+            "repo": "Red-Teaming-Toolkit",
+            "stars": 10620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Red Teaming",
+          "description": "A list of awesome red teaming resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-28T18:10:52Z",
+            "owner": "yeyintminthuhtut",
+            "repo": "Awesome-Red-Teaming",
+            "stars": 8056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red-Team Infrastructure Wiki",
+          "description": "Wiki to collect Red Team infrastructure hardening resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-01T17:10:58Z",
+            "owner": "bluscreenofjeff",
+            "repo": "Red-Team-Infrastructure-Wiki",
+            "stars": 4514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adversary_emulation_library",
+          "description": "An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-28T19:37:18Z",
+            "owner": "center-for-threat-informed-defense",
+            "repo": "adversary_emulation_library",
+            "stars": 2150
+          }
+        }
+      ],
+      "title": "Threat Simulation Resources"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Adel \"0x4D31\" Karimi has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:48.966Z",
+    "original_repository": "0x4D31/awesome-threat-detection",
+    "original_repository_sha": "f1e6a1528c2690d02fa87a97c860235eabc34639",
+    "enhanced_repository": "enhansome/enhansome-threat-detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Threat Detection and Hunting with stars"
+  }
+}
