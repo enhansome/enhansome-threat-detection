@@ -682,10 +682,10 @@
                 "archived": false,
                 "id": 40556106,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:20:53Z",
+                "last_commit": "2026-08-25T06:21:44Z",
                 "owner": "wazuh",
                 "repo": "wazuh",
-                "stars": 16670
+                "stars": 16671
               }
             },
             {
@@ -1261,7 +1261,7 @@
             "archived": false,
             "id": 340478300,
             "language": "YAML",
-            "last_commit": "2026-08-25T05:49:36Z",
+            "last_commit": "2026-08-25T05:51:38Z",
             "owner": "sublime-security",
             "repo": "sublime-rules",
             "stars": 372
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:26.359Z",
+    "last_updated": "2026-08-25T06:29:30.627Z",
     "original_repository": "0x4D31/awesome-threat-detection",
     "original_repository_id": 117328645,
     "original_repository_sha": "f1e6a1528c2690d02fa87a97c860235eabc34639",

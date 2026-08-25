@@ -1,6 +1,6 @@
 # Awesome Threat Detection and Hunting with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,692 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21
 
 > A curated list of awesome threat detection and hunting resources
 
@@ -94,7 +94,7 @@
 ### Endpoint Monitoring
 
 * [osquery](https://osquery.io) ([github](https://github.com/osquery/osquery) ⭐ 23,518 | 🐛 624 | 🌐 C++ | 📅 2026-08-19) - SQL powered operating system instrumentation, monitoring, and analytics
-* [WAZUH](https://github.com/wazuh/wazuh) ⭐ 16,670 | 🐛 2,972 | 🌐 C++ | 📅 2026-08-25 - An open-source security platform
+* [WAZUH](https://github.com/wazuh/wazuh) ⭐ 16,671 | 🐛 2,972 | 🌐 C++ | 📅 2026-08-25 - An open-source security platform
 * [Sysdig](https://github.com/draios/sysdig) ⭐ 8,289 | 🐛 116 | 🌐 C++ | 📅 2026-04-13 - A tool for deep Linux system visibility, with native support for containers. Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce
 * [OSSEC](https://github.com/ossec/ossec-hids) ⭐ 5,046 | 🐛 150 | 🌐 C | 📅 2026-08-12 - An open-source Host-based Intrusion Detection System (HIDS)
 * [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,201 | 🐛 73 | 🌐 Go | 📅 2026-08-25 - Endpoint visibility and collection tool
