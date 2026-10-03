@@ -1,6 +1,6 @@
 # Awesome Threat Detection and Hunting with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,882 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of awesome threat detection and hunting resources
 
@@ -39,23 +39,23 @@
 
 ## Tools
 
-* [YARA](https://github.com/virustotal/yara) ⭐ 9,907 | 🐛 167 | 🌐 C | 📅 2026-09-23 - The pattern matching swiss knife
+* [YARA](https://github.com/virustotal/yara) ⭐ 9,907 | 🐛 168 | 🌐 C | 📅 2026-09-23 - The pattern matching swiss knife
 * [Dispatch](https://github.com/Netflix/dispatch) ⚠️ Archived - An open-source crisis management orchestration framework
 * [Capa](https://github.com/fireeye/capa) ⭐ 6,209 | 🐛 309 | 🌐 Python | 📅 2026-09-14 - An open-source tool to identify capabilities in executable files.
 * [DetectionLab](https://github.com/clong/DetectionLab/) ⭐ 5,029 | 🐛 42 | 🌐 HTML | 📅 2024-07-06 - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices.
 * [ProcMon for Linux](https://github.com/Sysinternals/ProcMon-for-Linux) ⭐ 4,745 | 🐛 33 | 🌐 C | 📅 2026-09-14
-* [Intel Owl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,737 | 🐛 72 | 🌐 Python | 📅 2026-10-01 - An Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale.
+* [Intel Owl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,737 | 🐛 73 | 🌐 Python | 📅 2026-10-01 - An Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale.
 * [HELK](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,931 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) ⚠️ Archived - An open-source Linux distribution for threat hunting, security monitoring, and log management. It includes ELK, Snort, Suricata, Zeek, Wazuh, Sguil, and many other security tools
-* [MITRE ATT\&CK Navigator](https://mitre.github.io/attack-navigator/enterprise/) ([source code](https://github.com/mitre-attack/attack-navigator) ⭐ 2,470 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-01) - The ATT\&CK Navigator is designed to provide basic navigation and annotation of ATT\&CK matrices, something that people are already doing today in tools like Excel.
+* [MITRE ATT\&CK Navigator](https://mitre.github.io/attack-navigator/enterprise/) ([source code](https://github.com/mitre-attack/attack-navigator) ⭐ 2,471 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-01) - The ATT\&CK Navigator is designed to provide basic navigation and annotation of ATT\&CK matrices, something that people are already doing today in tools like Excel.
 * [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) ⭐ 2,433 | 🐛 14 | 🌐 PowerShell | 📅 2023-10-14 - A PowerShell Module for Hunt Teaming via Windows Event Logs
 * [hollows\_hunter](https://github.com/hasherezade/hollows_hunter) ⭐ 2,415 | 🐛 2 | 🌐 C | 📅 2026-06-06 - Scans all running processes, recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
-* [Brim](https://github.com/brimsec/brim) ⭐ 1,974 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-22 - A desktop application to efficiently search large packet captures and Zeek logs
+* [Brim](https://github.com/brimsec/brim) ⭐ 1,973 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-22 - A desktop application to efficiently search large packet captures and Zeek logs
 * [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,701 | 🐛 27 | 🌐 Python | 📅 2026-10-02 Splunk-curated detection content that can easily be used accross many SIEMs (see Uncoder Rule Converter.)
 * [BinaryAlert](https://github.com/airbnb/binaryalert) ⭐ 1,457 | 🐛 43 | 🌐 Python | 📅 2023-12-12 - Serverless, real-time & retroactive malware detection
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) ⭐ 1,319 | 🐛 7 | 📅 2025-01-22 - A Virtual Machine for Adversary Emulation and Threat Hunting. RedHunt aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.
 * [ThreatHunting](https://github.com/olafhartong/ThreatHunting) ⭐ 1,187 | 🐛 23 | 📅 2023-07-26 - A Splunk app mapped to MITRE ATT\&CK to guide your threat hunts
-* [VAST](https://github.com/tenzir/vast) ⭐ 762 | 🐛 0 | 🌐 C++ | 📅 2026-10-02 - A network telemetry engine for data-driven security investigations.
+* [VAST](https://github.com/tenzir/vast) ⭐ 762 | 🐛 0 | 🌐 C++ | 📅 2026-10-03 - A network telemetry engine for data-driven security investigations.
 * [Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) ⭐ 756 | 🐛 16 | 🌐 PowerShell | 📅 2023-12-01 - PowerShell Obfuscation Detection Framework.
 * [CimSweep](https://github.com/PowerShellMafia/CimSweep) ⭐ 656 | 🐛 2 | 🌐 PowerShell | 📅 2019-08-19 - A suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows
 * [BZAR](https://github.com/mitre-attack/bzar) ⭐ 624 | 🐛 8 | 🌐 Zeek | 📅 2024-06-26 (Bro/Zeek ATT\&CK-based Analytics and Reporting) - A set of Zeek scripts to detect ATT\&CK techniques
@@ -87,14 +87,14 @@
 * [ElastAlert](https://github.com/Yelp/elastalert) ⭐ 7,985 | 🐛 1,400 | 🌐 Python | 📅 2024-08-07 - A framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch
 * [StreamAlert](https://github.com/airbnb/streamalert) ⭐ 2,891 | 🐛 90 | 🌐 Python | 📅 2023-10-23 - A serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define
 * [Shuffle](https://github.com/Shuffle/Shuffle) ⭐ 2,448 | 🐛 494 | 🌐 JavaScript | 📅 2026-09-28: A general purpose security automation platform.
-* [Matano](https://github.com/matanolabs/matano) ⭐ 1,699 | 🐛 55 | 🌐 Rust | 📅 2025-01-08: An open source security lake platform (SIEM alternative) for threat hunting, detection and response on AWS. Matano lets you write advanced detections as code (using python) to correlate and alert on threats in realtime.
+* [Matano](https://github.com/matanolabs/matano) ⭐ 1,700 | 🐛 55 | 🌐 Rust | 📅 2025-01-08: An open source security lake platform (SIEM alternative) for threat hunting, detection and response on AWS. Matano lets you write advanced detections as code (using python) to correlate and alert on threats in realtime.
 * [Substation](https://github.com/brexhq/substation) ⭐ 407 | 🐛 3 | 🌐 Go | 📅 2026-01-20 - A cloud native data pipeline and transformation toolkit for security teams.
 * [Sublime](https://github.com/sublime-security/sublime-platform) ⭐ 269 | 🐛 12 | 🌐 Shell | 📅 2026-09-29: An open platform for detection, response, and threat hunting in email environments. Sublime lets you write advanced detections as code to alert and remediate threats like phishing in real-time.
 
 ### Endpoint Monitoring
 
-* [osquery](https://osquery.io) ([github](https://github.com/osquery/osquery) ⭐ 23,605 | 🐛 578 | 🌐 C++ | 📅 2026-10-02) - SQL powered operating system instrumentation, monitoring, and analytics
-* [WAZUH](https://github.com/wazuh/wazuh) ⭐ 17,069 | 🐛 3,142 | 🌐 C++ | 📅 2026-10-03 - An open-source security platform
+* [osquery](https://osquery.io) ([github](https://github.com/osquery/osquery) ⭐ 23,607 | 🐛 578 | 🌐 C++ | 📅 2026-10-02) - SQL powered operating system instrumentation, monitoring, and analytics
+* [WAZUH](https://github.com/wazuh/wazuh) ⭐ 17,071 | 🐛 3,144 | 🌐 C++ | 📅 2026-10-03 - An open-source security platform
 * [Sysdig](https://github.com/draios/sysdig) ⭐ 8,298 | 🐛 116 | 🌐 C++ | 📅 2026-04-13 - A tool for deep Linux system visibility, with native support for containers. Think about sysdig as strace + tcpdump + htop + iftop + lsof + ...awesome sauce
 * [OSSEC](https://github.com/ossec/ossec-hids) ⭐ 5,061 | 🐛 126 | 🌐 C | 📅 2026-09-17 - An open-source Host-based Intrusion Detection System (HIDS)
 * [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,289 | 🐛 79 | 🌐 Go | 📅 2026-10-03 - Endpoint visibility and collection tool
@@ -114,9 +114,9 @@
 
 ### Network Monitoring
 
-* [ntopng](https://github.com/ntop/ntopng) ⭐ 8,220 | 🐛 339 | 🌐 Lua | 📅 2026-10-02 - A web-based network traffic monitoring tool
-* [Zeek](https://github.com/zeek/zeek) ⭐ 8,056 | 🐛 252 | 🌐 C++ | 📅 2026-10-02 (formerly Bro) - A network security monitoring tool
-* [Arkime](https://github.com/arkime/arkime) ⭐ 7,517 | 🐛 39 | 🌐 C | 📅 2026-10-02) - A large scale and open source full packet capture and search tool
+* [ntopng](https://github.com/ntop/ntopng) ⭐ 8,220 | 🐛 339 | 🌐 Lua | 📅 2026-10-03 - A web-based network traffic monitoring tool
+* [Zeek](https://github.com/zeek/zeek) ⭐ 8,057 | 🐛 252 | 🌐 C++ | 📅 2026-10-02 (formerly Bro) - A network security monitoring tool
+* [Arkime](https://github.com/arkime/arkime) ⭐ 7,519 | 🐛 39 | 🌐 C | 📅 2026-10-02) - A large scale and open source full packet capture and search tool
 * [Snort](https://snort.org) ([github](https://github.com/snort3/snort3) ⭐ 3,429 | 🐛 81 | 🌐 C++ | 📅 2026-04-23) - A network intrusion detection tool
 * [Netcap](https://github.com/dreadl0ck/netcap) ⭐ 1,810 | 🐛 6 | 🌐 Go | 📅 2026-09-28 - A framework for secure and scalable network traffic analysis
 * [Stenographer](https://github.com/google/stenographer) ⚠️ Archived - A full-packet-capture tool
@@ -142,10 +142,10 @@
 
 ## Detection Rules
 
-* [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 11,147 | 🐛 232 | 🌐 Python | 📅 2026-10-02 - Generic Signature Format for SIEM Systems
-* [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ⭐ 4,680 | 🐛 6 | 🌐 Python | 📅 2026-01-12 - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
+* [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 11,148 | 🐛 233 | 🌐 Python | 📅 2026-10-02 - Generic Signature Format for SIEM Systems
+* [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ⭐ 4,681 | 🐛 6 | 🌐 Python | 📅 2026-01-12 - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 * [Awesome YARA Rules](https://github.com/InQuest/awesome-yara#rules) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15
-* [Elastic Detection Rules](https://github.com/elastic/detection-rules) ⭐ 2,706 | 🐛 253 | 🌐 Python | 📅 2026-10-02
+* [Elastic Detection Rules](https://github.com/elastic/detection-rules) ⭐ 2,707 | 🐛 254 | 🌐 Python | 📅 2026-10-02
 * [Chronicle Detection Rules](https://github.com/chronicle/detection-rules) ⭐ 518 | 🐛 13 | 🌐 Python | 📅 2026-08-06 - Collection of YARA-L 2.0 sample rules for the Chronicle Detection API.
 * [Sublime Detection Rules](https://github.com/sublime-security/sublime-rules) ⭐ 373 | 🐛 84 | 🌐 YAML | 📅 2026-10-03 - Email attack detection, response, and hunting rules.
 * [GCP Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) ⚠️ Archived - Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud.
@@ -170,7 +170,7 @@
 
 ## Resources
 
-* [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) ⭐ 4,680 | 🐛 6 | 🌐 Python | 📅 2026-01-12 - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+* [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) ⭐ 4,681 | 🐛 6 | 🌐 Python | 📅 2026-01-12 - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 * [Awesome YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15 - A curated list of awesome YARA rules, tools, and resources
 * [The ThreatHunting Project](https://github.com/ThreatHuntingProject/ThreatHunting) ⭐ 1,894 | 🐛 7 | 📅 2021-11-17 - A great [collection of hunts](https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts) ⭐ 1,894 | 🐛 7 | 📅 2021-11-17 and threat hunting resources.
 * [CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting) ⭐ 918 | 🐛 1 | 🌐 Python | 📅 2024-10-15 - A collection of resources for threat hunters.
@@ -340,7 +340,7 @@
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,427 | 🐛 88 | 📅 2026-07-15
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,209 | 🐛 5 | 📅 2026-09-26
 * [Awesome YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15
-* [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,495 | 🐛 26 | 📅 2026-03-17
+* [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,496 | 🐛 26 | 📅 2026-03-17
 * [Awesome Kubernetes Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) ⭐ 411 | 🐛 5 | 📅 2023-09-02
 
 ## Podcasts
@@ -410,9 +410,9 @@
 ## Threat Simulation Tools
 
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) ⚠️ Archived - A PowerShell Post-Exploitation Framework.
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,604 | 🐛 39 | 🌐 C | 📅 2026-09-28 - Small and highly portable detection tests mapped to the Mitre ATT\&CK Framework.
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,605 | 🐛 39 | 🌐 C | 📅 2026-09-28 - Small and highly portable detection tests mapped to the Mitre ATT\&CK Framework.
 * [Empire](https://github.com/EmpireProject/Empire) ⚠️ Archived([website](http://www.powershellempire.com)) - A PowerShell and Python post-exploitation agent.
-* [MITRE CALDERA](https://github.com/mitre/caldera) ⭐ 7,303 | 🐛 76 | 🌐 Python | 📅 2026-08-27 - An automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks.
+* [MITRE CALDERA](https://github.com/mitre/caldera) ⭐ 7,305 | 🐛 76 | 🌐 Python | 📅 2026-08-27 - An automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks.
 * [Infection Monkey](https://github.com/guardicore/monkey) ⭐ 7,096 | 🐛 240 | 🌐 Python | 📅 2025-05-01 - An open source Breach and Attack Simulation (BAS) tool that assesses the resiliency of private and public cloud environments to post-breach attacks and lateral movement.
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,775 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - A Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 * [Splunk Attack Range](https://github.com/splunk/attack_range) ⭐ 2,564 | 🐛 13 | 🌐 Python | 📅 2026-10-01 - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk.
@@ -426,9 +426,9 @@
 
 ## Threat Simulation Resources
 
-* [Red Teaming/Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,753 | 🐛 8 | 📅 2026-05-07 - A collection of open source and commercial tools that aid in red team operations.
-* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,117 | 🐛 19 | 📅 2023-12-28 - A list of awesome red teaming resources
-* [Red-Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,536 | 🐛 0 | 📅 2025-10-01 - Wiki to collect Red Team infrastructure hardening resources.
+* [Red Teaming/Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,756 | 🐛 8 | 📅 2026-05-07 - A collection of open source and commercial tools that aid in red team operations.
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,118 | 🐛 19 | 📅 2023-12-28 - A list of awesome red teaming resources
+* [Red-Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,538 | 🐛 0 | 📅 2025-10-01 - Wiki to collect Red Team infrastructure hardening resources.
 * [adversary\_emulation\_library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library) ⭐ 2,168 | 🐛 40 | 🌐 C | 📅 2025-05-28 - An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs.
 * [MITRE's Adversary Emulation Plans](https://attack.mitre.org/wiki/Adversary_Emulation_Plans)
 * [Payload Generation using SharpShooter](https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/)
