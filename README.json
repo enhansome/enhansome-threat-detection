@@ -359,8 +359,8 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:00:25Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-06T11:57:32Z",
+            "open_issues": 25,
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1705,
@@ -464,7 +464,7 @@
             "id": 932314,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T09:46:03Z",
+            "last_commit": "2026-10-06T11:55:01Z",
             "open_issues": 0,
             "owner": "tenzir",
             "repo": "tenzir",
@@ -1204,11 +1204,11 @@
                 "id": 40556106,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:46:29Z",
-                "open_issues": 3201,
+                "last_commit": "2026-10-06T12:09:37Z",
+                "open_issues": 3199,
                 "owner": "wazuh",
                 "repo": "wazuh",
-                "stars": 17126,
+                "stars": 17130,
                 "topics": [
                   "cloud-security",
                   "compliance",
@@ -1301,7 +1301,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T03:20:14Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
                 "stars": 4302,
@@ -1567,7 +1567,7 @@
                 "open_issues": 337,
                 "owner": "ntop",
                 "repo": "ntopng",
-                "stars": 8224,
+                "stars": 8225,
                 "topics": [
                   "cybersecurity",
                   "docker",
@@ -1633,7 +1633,7 @@
                 "open_issues": 39,
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7523,
+                "stars": 7524,
                 "topics": [
                   "big-data",
                   "c",
@@ -1732,7 +1732,7 @@
                 "open_issues": 30,
                 "owner": "cisco",
                 "repo": "joy",
-                "stars": 1368,
+                "stars": 1367,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:41:57.975Z"
@@ -1906,7 +1906,7 @@
                     "open_issues": 14,
                     "owner": "LeeBrotherston",
                     "repo": "tls-fingerprinting",
-                    "stars": 401,
+                    "stars": 400,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:41:57.975Z"
@@ -2051,11 +2051,11 @@
             "id": 77276660,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T08:14:27Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-06T11:26:20Z",
+            "open_issues": 241,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11164,
+            "stars": 11168,
             "topics": [
               "elasticsearch",
               "ids",
@@ -2149,11 +2149,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:18:37Z",
+            "last_commit": "2026-10-06T12:00:38Z",
             "open_issues": 255,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2713,
+            "stars": 2714,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -2360,7 +2360,7 @@
             "id": 281495346,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T22:29:28Z",
+            "last_commit": "2026-10-06T11:45:50Z",
             "open_issues": 4,
             "owner": "splunk",
             "repo": "attack_data",
@@ -2958,7 +2958,7 @@
                 "open_issues": 351,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14945,
+                "stars": 14946,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -3360,7 +3360,7 @@
             "open_issues": 35,
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12613,
+            "stars": 12614,
             "topics": [
               "mitre",
               "mitre-attack"
@@ -3699,7 +3699,7 @@
             "open_issues": 9,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10760,
+            "stars": 10761,
             "topics": [
               "hacking",
               "infosec",
@@ -3800,7 +3800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:47:45.058Z",
+    "last_updated": "2026-10-06T12:12:49.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
